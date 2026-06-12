@@ -2,6 +2,8 @@
 
 Interactive linear regression visualization built with Python, matplotlib, and scikit-learn.
 
+demo page: https://nchu-linear-regression-uspll643kdgiggghrcszjn.streamlit.app/
+
 ## Screenshot
 
 ![screenshot](screenshot.png)
