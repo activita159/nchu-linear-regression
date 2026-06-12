@@ -25,7 +25,7 @@ demo page: https://nchu-linear-regression-uspll643kdgiggghrcszjn.streamlit.app/
 - scikit-learn
 
 ## Installation
-
+hhhhhhhhhhhhhhhhhh
 ```bash
 pip install numpy matplotlib scikit-learn
 ```
